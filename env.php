@@ -2,10 +2,10 @@
 
 namespace db;
 
-class DbCongif
+class DbConfig
 {
-    const HOST = "eu-cdbr-west-03.cleardb.net";
-    const USER = "bd30954cc8a378";
-    const PASS = "ffe2d39a";
-    const DB = "heroku_73c29ebb10490cf";
+    const HOST = "localhost";
+    const USER = "root";
+    const PASS = "";
+    const DB = "web_cfc";
 }
